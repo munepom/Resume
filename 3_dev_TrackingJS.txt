@@ -1,7 +1,6 @@
-シャノンマーケティングプラットフォーム (SMP) の
-新 Web トラッキング JavaScript (cam3.js) 並びにそのバックエンドを設計・開発しました。
-http://www.shanon.co.jp/products/webtracking/
-http://smpdoc.shanon.co.jp/ja/tracking/cam3/
+（現職にて）
+マーケティングオートメーション機能の１つである Web トラッキング分野を担当していますが、
+新 Web トラッキング JavaScript 並びにそのバックエンドを設計・開発しました。
 
 チームメンバー
 ・PdM: 1 名
