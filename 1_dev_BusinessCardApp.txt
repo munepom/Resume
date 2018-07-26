@@ -46,8 +46,6 @@ b-1. Realm データを iCloud に保存させないようにしたい
 
 b-2. REST API で受信する JSON データの値の型が動的に変わるので、 Swift の型付けができない問題
 JSON データのメタデータも JSON で受信しており、それは Swift の型付けが可能なので、 JSON データは文字列として保存し、画面表示の際に JSON 変換し、メタデータと照合して Swift の型付けられた値に変換する仕組みを作って解決した。
-※ iOSDC Japan 2018 に CfP を提出しました。 (現状不採択ですが、、、)
-https://fortee.jp/iosdc-japan-2018/proposal/d692ec3d-9cc7-4fa5-9ca7-4aea853af45a
 
 b-3. フォーム入力 UITableView の作成
 ユーザが自由にフォーム入力項目を定義できるため、その JSON データに応じて動的に UITableViewCell を用意できる処理を構築しました。
