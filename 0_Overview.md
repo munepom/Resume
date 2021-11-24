@@ -63,6 +63,13 @@
   - [Yahoo! JAPAN トップページ リニューアルとテストについて](https://www.slideshare.net/techblogyahoo/yahoo-japan-yjbonfire)
 - 一部 Spring Boot を利用したアプリケーションがあるので、開発運用保守を担当している。
 
+#### プロダクト開発のついでに OSS バグ原因を解析した
+
++ axios という HTTP client のバグを解析できた
+  - Node.js v13 以降でレスポンスエラーを正常にハンドリングできないケースが発覚した
+  - 原因を解析し、 issue コメント内で報告を上げた https://github.com/axios/axios/issues/3798#issuecomment-865143730
+  - bug fix は別メンバーに実施いただけた
+
 ## 職務経歴 (前職以前)
 
 ### 株式会社S (2015/07 - 2018/10)
