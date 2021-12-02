@@ -11,7 +11,8 @@
 
 + Web アプリケーションの開発
   - バックエンドは Java, Node.js, PHP, Perl あわせて 10 年以上
-  - フロントエンドは HTML, CSS, JavaScript, TypeScript あわせて 5 年以上
+  - フロントエンドは HTML, CSS, JavaScript はあわせて 8 年以上
+  - TypeScript は 3　年程度
 
 + Android アプリの開発
   - Android OS 2.2 - 5.0 の頃に 2 年ほど
@@ -63,6 +64,7 @@
 + Bonfire Frontend #5 にて、以下の登壇実績あり
   - [Yahoo! JAPAN トップページ リニューアルとテストについて](https://www.slideshare.net/techblogyahoo/yahoo-japan-yjbonfire)
 - 一部 Spring Boot を利用したアプリケーションがあるので、開発運用保守を担当している。
+- プロキシサーバーのフォールバックプラグインを開発した (C言語)
 
 #### プロダクト開発のついでに OSS バグ原因を解析した
 
