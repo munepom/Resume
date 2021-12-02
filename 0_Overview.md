@@ -12,7 +12,7 @@
 + Web アプリケーションの開発
   - バックエンドは Java, Node.js, PHP, Perl あわせて 10 年以上
   - フロントエンドは HTML, CSS, JavaScript はあわせて 5 年以上
-  - TypeScript は 3　年程度
+  - TypeScript は 3年程度
 
 + Android アプリの開発
   - Android OS 2.2 - 5.0 の頃に 2 年ほど
